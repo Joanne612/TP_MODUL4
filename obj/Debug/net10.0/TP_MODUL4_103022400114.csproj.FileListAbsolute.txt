@@ -1,0 +1,14 @@
+D:\SE Telkom University\Sems 4\LAB KPL\TP_MODUL4_103022400114\bin\Debug\net10.0\TP_MODUL4_103022400114.exe
+D:\SE Telkom University\Sems 4\LAB KPL\TP_MODUL4_103022400114\bin\Debug\net10.0\TP_MODUL4_103022400114.deps.json
+D:\SE Telkom University\Sems 4\LAB KPL\TP_MODUL4_103022400114\bin\Debug\net10.0\TP_MODUL4_103022400114.runtimeconfig.json
+D:\SE Telkom University\Sems 4\LAB KPL\TP_MODUL4_103022400114\bin\Debug\net10.0\TP_MODUL4_103022400114.dll
+D:\SE Telkom University\Sems 4\LAB KPL\TP_MODUL4_103022400114\bin\Debug\net10.0\TP_MODUL4_103022400114.pdb
+D:\SE Telkom University\Sems 4\LAB KPL\TP_MODUL4_103022400114\obj\Debug\net10.0\TP_MODUL4_103022400114.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE Telkom University\Sems 4\LAB KPL\TP_MODUL4_103022400114\obj\Debug\net10.0\TP_MODUL4_103022400114.AssemblyInfoInputs.cache
+D:\SE Telkom University\Sems 4\LAB KPL\TP_MODUL4_103022400114\obj\Debug\net10.0\TP_MODUL4_103022400114.AssemblyInfo.cs
+D:\SE Telkom University\Sems 4\LAB KPL\TP_MODUL4_103022400114\obj\Debug\net10.0\TP_MODUL4_103022400114.csproj.CoreCompileInputs.cache
+D:\SE Telkom University\Sems 4\LAB KPL\TP_MODUL4_103022400114\obj\Debug\net10.0\TP_MODUL4_103022400114.dll
+D:\SE Telkom University\Sems 4\LAB KPL\TP_MODUL4_103022400114\obj\Debug\net10.0\refint\TP_MODUL4_103022400114.dll
+D:\SE Telkom University\Sems 4\LAB KPL\TP_MODUL4_103022400114\obj\Debug\net10.0\TP_MODUL4_103022400114.pdb
+D:\SE Telkom University\Sems 4\LAB KPL\TP_MODUL4_103022400114\obj\Debug\net10.0\TP_MODUL4_103022400114.genruntimeconfig.cache
+D:\SE Telkom University\Sems 4\LAB KPL\TP_MODUL4_103022400114\obj\Debug\net10.0\ref\TP_MODUL4_103022400114.dll
